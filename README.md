@@ -1,4 +1,4 @@
-# Monitoreo de Señales de Drones en Tiempo Real  
+# Monitoreo de Señales de Drones en Tiempo Real ¨Video: https://youtu.be/BgHuQZwtFtI¨ 
 
 El proyecto tiene como objetivo desarrollar un sistema en tiempo real para monitorear las señales provenientes de drones, procesarlas y mostrar alertas cuando se superen límites específicos, como la altitud máxima permitida. Además, el sistema permite visualizar en una interfaz gráfica los datos de las señales en tiempo real, como la altitud y velocidad del dron.  
 
